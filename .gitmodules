@@ -1,4 +1,4 @@
 [submodule "dosbox"]
 	path = dosbox
 	url = https://github.com/shedbuilt/dosbox.git
-	branch = master
+	branch = .
