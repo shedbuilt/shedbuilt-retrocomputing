@@ -2,3 +2,7 @@
 	path = dosbox
 	url = https://github.com/shedbuilt/dosbox.git
 	branch = .
+[submodule "basilisk-ii"]
+	path = basilisk-ii
+	url = https://github.com/shedbuilt/basilisk-ii.git
+	branch = .
